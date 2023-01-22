@@ -29,7 +29,7 @@ class Ata extends React.Component {
                     I have been on this team since the beginning and have loved it for all it's moments of triumph and learning.<br/><br/>
                     My responsibilities include:<br/>
                     - Office Hours<br/>
-                    - Product/Festure Release QA<br/>
+                    - Product/Feature Release QA<br/>
                     - Integrations Platform Testing<br/>
                     - Integrations Platform Automation<br/>
                     <strong>- Being a postitive and supportive teammate to everyone</strong><br/>
