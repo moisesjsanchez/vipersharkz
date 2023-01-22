@@ -1,4 +1,4 @@
-#main {
+.main {
     width: 100%;
     margin: 0 auto;
     display: flex;
@@ -6,9 +6,22 @@
     justify-content: center;
 }
 
-#header {
+.header {
     position: absolute;
     top: 10%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.main-photo {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bio {
+    text-align: center;
+    margin: 2%;
 }
