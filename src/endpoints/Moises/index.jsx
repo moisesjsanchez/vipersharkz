@@ -1,11 +1,15 @@
 import React from 'react';
+import AboutMe from './sections/aboutMe';
+import './css/style.css'
+import Background from './components/aboutMe/background';
 
 class Moises extends React.Component {
 
     render() {
         return (
-            <div>
-                <h1> This is Moises' page.</h1>
+            <div className='aboutMeContainer'>
+                <Background />
+                <AboutMe />
             </div>
         )
     }
